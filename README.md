@@ -1,4 +1,6 @@
-# my-helpers
+# cache-clear for laravel
 
+To run...
 
-See the branches
+Put this file in the root folder of your laravel project, and then, run 
+`sh cache-clear.sh`
